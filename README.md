@@ -14,9 +14,12 @@ Allow me to give you some reasons why Python can be of added value:
 2. Python visualizations can be used in your dashboard, there are more visualizations possible than Power BI standard has. 
 3. Use a Python script to make predictions on your dataset
 
-And note, Python is open source, so completely free of charge, you do not need a premium license!
+### No extra cost!
+Please note that Python is open source, so completely free of charge, you do not need a premium license!
 
+## Want to learn more? 
 Want to learn more about predicting with Python in Power BI, be sure to check out this course. 
+
 
 If you have any questions, feel free to contact me via [email](renate@baime.nl)
 
