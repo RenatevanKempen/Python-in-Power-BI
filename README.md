@@ -1,30 +1,1 @@
-﻿![BAIME banner](https://user-images.githubusercontent.com/47600826/89530907-9b3f6480-d7ef-11ea-9849-27617f6025cf.png)
-
-# Python in Power BI 
-
-Hello to you all!
-
-My name is Renate van Kempen and in this repo you will find all kind of examples of the use of Python in Power BI. 
-
-## Why should I use Python in Power BI? 
-If you are a data professional and enjoy building Power BI dashboards, you might not think of using Python.
-
-Allow me to give you some reasons why Python can be of added value: 
-1. Transforming and cleaning data via Python is a lot faster and there are more (endless!!) possibilities
-2. Python visualizations can be used in your dashboard, there are more visualizations possible than Power BI standard has. 
-3. Use a Python script to make predictions on your dataset
-
-### No extra cost!
-Please note that Python is open source, so completely free of charge, you do not need a premium license!
-
-## Want to learn more? 
-Want to learn more about predicting with Python in Power BI, be sure to check out [this course](https://get-responsive.com/trainingen/):
-
-![logo predicting](https://media-exp1.licdn.com/dms/image/C4D22AQEG3nt0XMRHZQ/feedshare-shrink_1280-alternative/0/1602238221108?e=1613606400&v=beta&t=GN_fgBdR6r2_-9Uh_LHfVAcJeoJ_UFBtu6ad0S7B-nM) 
-
-
-If you have any questions, feel free to contact me via [email](renate@baime.nl)
-
-Kind Regards, Renate
-
-![foto1s](https://user-images.githubusercontent.com/47600826/73173281-4f578880-4105-11ea-8862-4c54a530e7f4.jpg)
+﻿﻿![BAIME banner](https://user-images.githubusercontent.com/47600826/89530907-9b3f6480-d7ef-11ea-9849-27617f6025cf.png)# Python in Power BI Hello to you all!My name is Renate van Kempen and in this repo you will find all kind of examples of the use of Python in Power BI. ## Why should I use Python in Power BI? If you are a data professional and enjoy building Power BI dashboards, you might not think of using Python.Allow me to give you some reasons why Python can be of added value: - Python is open source and has great (statistical) power and packages- Transforming and cleaning data via Python is really easy,  a lot faster and there are more (endless!!) possibilities- Use Python visualizations in your dashboards for even more visualization possibilities- Use a Python Machine Learning script for predictions### No extra cost!Please note that Python is open source, so completely free of charge, you do not need a premium license!## Want to learn more? Want to learn more about predicting with Python in Power BI, be sure to check out [this course](https://get-responsive.com/trainingen/):![logo predicting](https://media-exp1.licdn.com/dms/image/C4D22AQEG3nt0XMRHZQ/feedshare-shrink_1280-alternative/0/1602238221108?e=1613606400&v=beta&t=GN_fgBdR6r2_-9Uh_LHfVAcJeoJ_UFBtu6ad0S7B-nM) If you have any questions, feel free to contact me via [email](renate@baime.nl)Kind Regards, Renate![foto1s](https://user-images.githubusercontent.com/47600826/73173281-4f578880-4105-11ea-8862-4c54a530e7f4.jpg)
